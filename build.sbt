@@ -1,7 +1,7 @@
-name := """play-java-hello-world-web"""
-organization := "com.example"
+name := "Appointments"
+organization := "com.meti"
 
-version := "1.0-SNAPSHOT"
+version := "ALPHA"
 
 lazy val root = (project in file(".")).enablePlugins(PlayJava)
 
